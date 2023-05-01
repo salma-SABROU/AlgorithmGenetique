@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class App {
     private static final int MAX_ITERATION=50;
-    private static final int MAX_FITNESS=10;
+    private static final int MAX_FITNESS=7;
 
     public static void main(String[] args) {
         Population population=new Population();
