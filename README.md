@@ -41,6 +41,7 @@ Voici quelques caractéristiques et concepts clés liés aux systèmes multi-age
 ### l'architecture centralisée
 
 Dans les systèmes multi-agents (SMA), l'architecture centralisée est une approche dans laquelle un agent centralisé, appelé agent central ou agent médiateur, est responsable de la coordination et de la prise de décision pour l'ensemble du système. Les autres agents du système sont souvent appelés agents subordonnés.
+![image](https://github.com/salma-SABROU/AlgorithmGenetique/assets/129564311/42f601b7-5bd9-4608-bac1-13f49baf8951)
 
 ## Explication du code 
 Notre implémentation est basée sur une architecture centralisée dans laquelle on a le mainAgents c'est l'agents hôte qui gere les differents agents qui échangent des informations (fitness, chromosomes) et effectuent des opérations de sélection et de croisement pour générer une nouvelle génération d'agents.
